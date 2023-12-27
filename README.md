@@ -2,7 +2,6 @@
 Web Application with media upload, comment, like/dislike, delete, edit functionality.
 
 Built with CodeIgniter 4.
-Built for a School Project at CSULA.
 
 Styling done primarily by [Foolish Developer](foolishdeveloper.com) and [DarkPan Bootstrap Template](https://htmlcodex.com/bootstrap-5-admin-template/).
 
